@@ -2,5 +2,5 @@
 Demo for Team1
 Azure
 =====
-apps & infra 1
+apps & infra 2
 ------------
